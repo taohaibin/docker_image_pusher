@@ -1,2 +1,2 @@
-nginx:1.26.1
+redis:6.2.12
 --platform=linux/arm64

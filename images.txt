@@ -1,2 +1,2 @@
-redis:6.2.14
+redis:7.2.4
 --platform=linux/arm64
